@@ -1,0 +1,20 @@
+// Sources:
+- Tutorial: 
+    https://www.youtube.com/watch?v=LMagNcngvcU
+- Figma Design: 
+    https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
+
+******
+
+// Notes:
+1/ install react icons:
+    npm install react-icons
+
+2/ ES7 snippets extension: to quickly create a function component by typing rafce which means "react arrow function export component"
+    "ES7 React/Redux/GraphQL/React-Native snippets"
+
+3/ Notice tricks to import/ export components/ assets: add an import.js file to a folder of component which needs to import many files
+
+4/ Create an array to store data of the components’ props then use map method to render
+
+5/ Files structure: including components & containers folders
